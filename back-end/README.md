@@ -1,12 +1,5 @@
 # Diplomata Pedidos
 
-https://faerulsalamun.medium.com/build-a-rest-api-with-fastify-and-postgresql-c7014aa83c89
-https://github.com/faerulsalamun/node-fastify-postgresql-rest-api/blob/master/src/modules/user/service/user.service.js
-https://edisondevadoss.medium.com/node-fastify-with-postgresql-3e0e78692185
-https://github.com/EdisonDevadoss/heraku-postgres/blob/master/queries.js
-https://github.com/LivioAlvarenga/Template-Api-Rest-Node-Docker-Prisma/blob/master/src/server.ts
-
-
 ### Estrutura de pastas
 **src/**: Esta é a pasta principal onde você mantém todo o código-fonte da sua aplicação.
 
