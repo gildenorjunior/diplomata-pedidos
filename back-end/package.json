@@ -2,12 +2,21 @@
   "name": "back-end",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch --no-warnings app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.1",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.4"
+  }
 }
